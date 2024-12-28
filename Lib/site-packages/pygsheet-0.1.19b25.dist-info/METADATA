@@ -1,0 +1,17 @@
+Metadata-Version: 2.0
+Name: pygsheet
+Version: 0.1.19b25
+Summary: Wrapper for Google sheets API and Drive API
+Home-page: https://github.com/betomark/PyGsheet
+Author: Alberto Marquez Alarcon
+Author-email: almark16@gmail.com
+License: GPL-3.0
+Description-Content-Type: UNKNOWN
+Requires-Dist: oauth2client
+Requires-Dist: webcolors
+Requires-Dist: httplib2
+Requires-Dist: google-api-python-client
+
+# PyGsheet
+
+
