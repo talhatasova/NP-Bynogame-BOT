@@ -1,3 +1,5 @@
 *.env
 *.db
 *.pkl
+*.json
+*.png
